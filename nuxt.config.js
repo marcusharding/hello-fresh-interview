@@ -32,5 +32,9 @@ export default {
 
     modules: [],
 
-    build: {}
+    build: {},
+
+    target: 'static',
+
+    router: { base: '/hello-fresh-interview/' }
 }
