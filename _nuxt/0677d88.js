@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{280:function(n,o,t){"use strict";t.r(o);var e={name:"Footer"},c=t(35),component=Object(c.a)(e,(function(){return(0,this._self._c)("footer")}),[],!1,null,"bc12595c",null);o.default=component.exports;installComponents(component,{Footer:t(280).default})}}]);
